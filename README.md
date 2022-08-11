@@ -1,1 +1,1 @@
-# Codes to webscrap daily vegetable price from FAMA 
+Scrap daily vegetable price from FAMA 
